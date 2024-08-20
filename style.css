@@ -1,0 +1,13 @@
+.container{
+    border: 1px solid;
+    width: 40%;
+    display: block;
+    margin: 40vh auto;
+    text-align: center;
+    height: 150px;
+    font-size: 45px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-weight: 800;
+}
